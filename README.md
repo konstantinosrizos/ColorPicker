@@ -8,5 +8,5 @@
 + `switches` for enable and disable the sliders
 + `button` for the reset
 ---
-![](ColorPicker.gif)
+![](Gif/ColorPicker.gif)
 
